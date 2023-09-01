@@ -2,7 +2,6 @@ blueprint:
   name: Motion-activated Light with Conditions
   description: Turn on a light when motion is detected.
   domain: automation
-
     motion_entity:
       name: Motion Sensor
       selector:
